@@ -1,0 +1,56 @@
+/*CSS reset settings here*/
+*{
+	margin: 0px;
+ 	padding: 0px;
+}
+
+#wrapper{
+ 	width: 950px;
+ 	background-color:black;
+ 	display:inline-block;
+ 	margin: 0px auto;
+}
+
+#header{
+	background-color: #F8F8F8;
+}
+
+#logo{
+	padding-left: 15px;
+	display:inline-block;
+	margin-left:10px;
+}
+
+#phone{
+	vertical-align: top;
+	display:inline-block;
+	margin-left: 260px;
+	margin-top: 40px;
+}
+
+#bar{
+	list-style-type: none;
+	background-color: #F8F8F8;
+	margin-left: 20px;
+}
+
+#bar li{
+	display:inline;
+	font-family: 'helvetica neue', arial, verdana, sans-serif;
+	border-top: 1px solid silver;
+	border-left: 1px solid silver;
+	border-right: 1px solid silver;
+	padding: 7px 15px;
+	font-size: .7em;
+}
+
+#block{
+	height: 20px;
+	background-color: #F8F8F8;
+}
+
+h2{
+	color:black;
+	font-family: 'helvetica neue', arial, verdana, sans-serif;
+	font-size: 1.0em;
+}
