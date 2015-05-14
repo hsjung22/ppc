@@ -4,8 +4,6 @@
  	padding: 0px;
 }
 
-/*some comment*/
-
 #wrapper{
  	width: 950px;
  	background-color:black;
@@ -51,7 +49,66 @@
 	background-color: #F8F8F8;
 }
 
+#main{
+	display:inline-block;
+	margin-left:27px;
+	margin-top: 14px;
+	border: 4px solid white;
+
+}
+
+#mright{
+	background-color: #585858;
+	display:inline-block;
+	vertical-align: top;
+	width: 500px;
+	height: 263px;
+	margin-left: 15px;
+	margin-top: 14px;
+}
+
+#mainb{
+	margin-left: 100px;
+	margin-bottom:5px;
+	margin-top: 5px;
+}
+
+h1{
+	color: #FFFF99;
+	font-family: 'helvetica neue', arial;
+	font-size: .5em;
+}
+
 h2{
+	color:black;
+	font-family: 'helvetica neue', arial, verdana, sans-serif;
+	font-size: 1.0em;
+}
+
+h3{
+	color:black;
+	font-size:.8em;
+	font-family: 'helvetica neue', arial, verdana, sans-serif;
+	background-color: #FFCC00;
+	padding: 6px;
+}
+
+h4{
+	color:white;
+	font-size: .8em;
+	font-family: 'helvetica neue', arial, verdana, sans-serif;
+	padding:10px;
+}
+
+h5{
+	font-size:.7em;
+	font-weight:normal;
+	color:white;
+	font-family: 'helvetica neue', arial, verdana, sans-serif;
+	padding:10px;
+}
+
+p{
 	color:black;
 	font-family: 'helvetica neue', arial, verdana, sans-serif;
 	font-size: 1.0em;
